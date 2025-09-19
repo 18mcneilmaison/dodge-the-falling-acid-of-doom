@@ -1,0 +1,35 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAPD//wAAAAAA393dAAD////d3d0AAA8A8N3d3QAAD1D13d3dAAAPUPDd3d0AAA9Q9d3d3QAAD1Dw3d3dAAAPUPDd3d0AAA9V9d3d3QAADwX13d3dAAAPVfXd3d0AAA8A8N3d3QAA////3d3dAAAAAADf3d0AAAAAAPD//w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMTAxMDEwMTA4MDgwODAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDgwODA4MDgwODA4MDgwMTAxMDEwMTAxMDEwMTAxMDUwODA4MDgwODA4MDgwODA4MDgwNTA4MDEwMTAxMDEwNTA1MDYwNjA2MDYwNjA2MDYwNTA1MDEwMTAxMDEwMTA1MDUwNzA3MDcwNzA3MDcwNzA1MDEwMTA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDEwMTAzMDgwODA1MDUwNTAxMDgwODA4MDgwODA4MDgwMTAxMDEwODA4MDUwNDA1MDEwMTA4MDgwODA4MDgwMTAxMDEwMTA4MDgwNTA1MDUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjAyMjIyMjIyMjIyMjIyMjAwMDAyMDIyMDAwMDAwMDAwMDAwMjAyMjIyMjIwMDAwMDAwMDIwMjIyMjIyMjIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIwMjAwMjIyMjIyMjIyMjIyMDIwMDIyMDAwMDIyMjIyMjAyMDAyMjAwMDAyMDIyMjIwMDAwMjIwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.doorClosedNorth",
+            "sprites.dungeon.doorLockedNorth",
+            "myTiles.tile1",
+            "sprites.dungeon.floorLight1",
+            "sprites.builtin.forestTiles2",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles10"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
